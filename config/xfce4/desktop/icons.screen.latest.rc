@@ -1,1 +1,15 @@
-/home/zach/.config/xfce4/desktop/icons.screen0-1008x752.rc
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[Wastebasket]
+row=0
+col=0
+
+[/]
+row=1
+col=0
+
+[/home/zach]
+row=2
+col=0
+
